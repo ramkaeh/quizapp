@@ -3,12 +3,18 @@
     <string name="button_true">Prawda</string>
     <string name="button_false">Fałsz</string>
     <string name="button_next">Następny</string>
+    <string name="button_hint">Podpowiedź</string>
+    <string name="button_answer">Pokaż odpowiedź</string>
     <string name="correct_answer">Poprawna odpowiedź</string>
     <string name="incorrect_answer">Niepoprawna odpowiedź</string>
+    <string name="answer_was_shown"> Odpowiedź była już wyświetlona!</string>
 
     <string name="a">Czy na Ziemi jest woda?</string>
     <string name="b">Czy pingwiny latają?</string>
     <string name="c">Czy Mount Everest jest najwyższą górą?</string>
     <string name="d">Czy pingwiny pływają?</string>
     <string name="e">Czy Barcelona leży we Włoszech?</string>
+
+    <string name="textView1">Czy na pewno chcesz zobaczyc podpowiedź?</string>
+
 </resources>
